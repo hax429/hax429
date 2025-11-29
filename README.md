@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **Sequi Animal Tracking**
 - 🌱 I'm currently learning: **Machine Learning**
 - 💬 Ask me about: **Swift, SwiftUI, Python**
-- 📝 Blog: **<a href="https://gbwposts.wordpress.com" target="_blank">https://gbwposts.wordpress.com</a>**
+- 📝 Blog: **<a href="https://blog.hax429.me" target="_blank">https://blog.hax429.me</a>**
 
 
  **<h3 align="left">Skills</h3>**
